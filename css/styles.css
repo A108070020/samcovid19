@@ -9792,7 +9792,7 @@ button.bg-dark:focus {
 }
 
 .text-white {
-  color: #fff !important;
+  color: #000000 !important;
 }
 
 .text-primary {
@@ -10111,7 +10111,7 @@ header.masthead h1 {
     padding-bottom: 0;
   }
   header.masthead p {
-    font-size: 1.15rem;
+    font-size: 2rem;
   }
   header.masthead h1 {
     font-size: 3rem;
@@ -10119,7 +10119,7 @@ header.masthead h1 {
 }
 @media (min-width: 1200px) {
   header.masthead h1 {
-    font-size: 3.5rem;
+    font-size: 4rem;
   }
 }
 
@@ -10160,5 +10160,5 @@ header.masthead h1 {
 }
 
 .text-white-75 {
-  color: rgba(255, 255, 255, 0.75);
+  color: rgba(0, 0, 0, 1);
 }
