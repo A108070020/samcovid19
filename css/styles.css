@@ -6164,7 +6164,7 @@ button.bg-light:focus {
 }
 
 .bg-dark {
-  background-color: #A6FFCC !important;
+  background-color: #00A15C !important;
 }
 
 a.bg-dark:hover, a.bg-dark:focus,
@@ -9864,7 +9864,7 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 .text-muted {
-  color: #6c757d !important;
+  color: #36BF36 !important;
 }
 
 .text-black-50 {
@@ -10006,7 +10006,7 @@ html {
 hr.divider {
   max-width: 3.25rem;
   border-width: 0.2rem;
-  border-color: #E0FFFF;
+  border-color: #36BF36;
 }
 
 hr.light {
